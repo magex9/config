@@ -32,17 +32,43 @@
 #apt-get install git
 
 #Svn
+#apt-get install subversion
+
 #Perl
+#apt-get install perl
+
 #Python
+#apt-get install python
+
 #NodeJS
+#apt-get install nodejs
+
 #Docker
+# Not configured yet.
+
+#Lynx
+#apt-get install lynx
+
 #ImageMagick
+# Not configured yet.
+
 #GraphViz
+#apt-get install graphviz
 
 #DNS
+# Not configured yet.
+
 #Mail
+# Not configured yet.
+
 #WebMail
+# Not configured yet.
+
 #LDAP
+sudo apt-get install slapd ldap-utils
+sudo dpkg-reconfigure slapd
+sudo apt-get install phpldapadmin
+
 #OracleXE
 
 #Php
@@ -55,11 +81,12 @@
 #Ant
 #Builder
 
-#Jboss
 #ActiveMQ
 #Tomcat
 #TomEE
 #Elastic
+#apt-get install elasticsearch
+
 #Hadoop
 
 #Nexus
