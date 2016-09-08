@@ -8,15 +8,10 @@
 # Setup with the default settings and user/pass of dev/dev.
 
 # Update the apt-get database
-# apt-get update
+#apt-get update
 
 #Zip
 #apt-get install zip
-#$APP_ZIP=`zip --version`
-if [[ $(zip --version) =~ "Info-ZIP" ]]; then
-	echo "Zip not installed correctly"
-	exit;
-fi
 
 #Unzip
 #apt-get install unzip
