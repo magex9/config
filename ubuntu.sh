@@ -65,9 +65,9 @@
 # Not configured yet.
 
 #LDAP
-sudo apt-get install slapd ldap-utils
-sudo dpkg-reconfigure slapd
-sudo apt-get install phpldapadmin
+#sudo apt-get install slapd ldap-utils
+#sudo dpkg-reconfigure slapd
+#sudo apt-get install phpldapadmin
 
 #OracleXE
 
