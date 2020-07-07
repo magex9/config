@@ -1,0 +1,1 @@
+$myshell = New-Object -com "Wscript.Shell";  for ($i = 1; $i -lt 500; $1++) { Start-Sleep -Seconds 60; $myshell.SendKeys("+{F15}") };
