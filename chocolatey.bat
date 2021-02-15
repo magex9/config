@@ -1,4 +1,4 @@
-
+# Operating System Applications
 cinst -y chocolateygui
 cinst -y 7zip.install
 cinst -y qdir
@@ -10,6 +10,7 @@ cinst -y conemu
 cinst -y microsoft-teams
 cinst -y slack
 
+# Developer Tools
 cinst -y nginx
 cinst -y adoptopenjdk11
 cinst -y maven
