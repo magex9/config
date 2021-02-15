@@ -18,6 +18,7 @@ cinst -y nodejs-lts
 cinst -y cloudfoundry-cli
 cinst -y git.install
 cinst -y gitextensions
+cinst -y beyondcompare
 cinst -y postman
 cinst -y intellijidea-ultimate
 cinst -y jetbrainstoolbox
