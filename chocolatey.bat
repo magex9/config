@@ -1,25 +1,33 @@
 # Operating System Applications
-cinst -y chocolateygui
-cinst -y 7zip.install
-cinst -y qdir
-cinst -y windirstat
-cinst -y googlechrome
-cinst -y firefox
-cinst -y notepadplusplus.install
-cinst -y conemu
-cinst -y microsoft-teams
-cinst -y slack
+choco install -y chocolateygui
+choco install -y 7zip.install
+choco install -y conemu
+choco install -y qdir
+choco install -y winscp
+choco install -y windirstat
+choco install -y googlechrome
+choco install -y firefox
+choco install -y notepadplusplus.install
+choco install -y microsoft-teams
+choco install -y slack
+choco install -y itunes
+choco install -y inkscape
+choco install -y 7-taskbar-tweaker
 
 # Developer Tools
-cinst -y nginx
-cinst -y adoptopenjdk11
-cinst -y maven
-cinst -y nodejs-lts
-cinst -y cloudfoundry-cli
-cinst -y git.install
-cinst -y gitextensions
-cinst -y beyondcompare
-cinst -y postman
-cinst -y intellijidea-ultimate
-cinst -y jetbrainstoolbox
-cinst -y webstorm
+choco install -y nginx
+choco install -y curl
+choco install -y adoptopenjdk11
+choco install -y maven
+choco install -y nodejs-lts
+choco install -y cloudfoundry-cli
+choco install -y git.install
+choco install -y gitextensions
+choco install -y beyondcompare
+choco install -y postman
+choco install -y putty.install
+choco install -y jetbrainstoolbox
+choco install -y intellijidea-ultimate
+choco install -y webstorm
+choco install -y datagrip
+choco install -y autohotkey
