@@ -1,11 +1,11 @@
 ## Window Placement
 
-| Left | Right |
+| Position | Views |
 | --- | --- |
-| *Left Top (File navigation)*
-Project (ALT+1)
-Commit (ALT+0) | Top Right (Resource Browsing)\nMaven\nDatabase |
-| Left Bottom (Analysis)\nBookmarks (ALT+2)\nStructure (ALT+7)\nTODO\nProblems | Bottom Right (Debugging)\nTerminal (ALT+F12)\nRun\nDebug |
+| Left Top (File navigation) | Project (ALT+1)<br>Commit (ALT+0) | 
+| Top Right (Resource Browsing) | Maven<br>Database |
+| Left Bottom (Analysis) | Bookmarks (ALT+2)<br>Structure (ALT+7)<br>TODO<br>Problems | 
+| Bottom Right (Debugging) | Terminal (ALT+F12)<br>Run<br>Debug |
 
 ## Settings
 
