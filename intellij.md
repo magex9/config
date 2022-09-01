@@ -1,37 +1,17 @@
 ## Window Placement
 
-### Left Top (File navigation)
-
-* Project (ALT+1)
-* Commit (ALT+0)
-
-### Left Bottom (Analysis)
-
-* Bookmarks (ALT+2)
-* Structure (ALT+7)
-* TODO
-* Problems
-
-### Top Right (Resource Browsing)
-
-* Maven
-* Database
-
-### Bottom Right (Debugging)
-
-* Terminal
-* Run
-* Debug
+| Left Top (File navigation)\nProject (ALT+1)\nCommit (ALT+0) | Top Right (Resource Browsing)\nMaven\nDatabase |
+| Left Bottom (Analysis)\nBookmarks (ALT+2)\nStructure (ALT+7)\nTODO\nProblems | Bottom Right (Debugging)\nTerminal (ALT+F12)\nRun\nDebug |
 
 ## Settings
 
 ### /Editor/Color Scheme
 
-* Scheme: Darcula
+| Scheme | Darcula |
 
 ### /Version Control/Commit
 
-[X] Use non-modal commit interface
-[X] Clear initial commit message
-[X] Optimize imports
+| [X] | Use non-modal commit interface |
+| [X] | Clear initial commit message |
+| [X] | Optimize imports |
 
