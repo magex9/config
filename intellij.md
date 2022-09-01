@@ -11,11 +11,13 @@
 
 ### /Editor/Color Scheme
 
+| Label | Value |
 | --- | --- |
 | Scheme | Darcula |
 
 ### /Version Control/Commit
 
+| Value | Property |
 | --- | --- |
 | [X] | Use non-modal commit interface |
 | [X] | Clear initial commit message |
