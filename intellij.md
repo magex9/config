@@ -17,7 +17,11 @@
 
 ### /Editor/Code Style/TypeScript/Punctuation
 
-| Use `single` quotes `in new code` | 
+| Punctuation | Use `single` quotes `in new code` | 
+| Punctuation | Trailing comma: `Add when multiline` |
+| Imports | [X] Sort imported members | 
+| Imports | [X] Sort imports by modules |
+
 
 ### /Version Control/Commit
 
