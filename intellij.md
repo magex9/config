@@ -15,6 +15,10 @@
 | --- | --- |
 | Scheme | Darcula |
 
+### /Editor/Code Style/TypeScript/Punctuation
+
+| Use `single` quotes `in new code` | 
+
 ### /Version Control/Commit
 
 | Value | Property |
